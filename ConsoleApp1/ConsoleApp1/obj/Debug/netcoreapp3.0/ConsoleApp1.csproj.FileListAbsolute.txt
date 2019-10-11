@@ -1,0 +1,15 @@
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\SendGrid.dll
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\АкчуринНа\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\GemBox.Email.dll
